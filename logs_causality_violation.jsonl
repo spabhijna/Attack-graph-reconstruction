@@ -1,3 +1,0 @@
-{"timestamp": 1641024000, "event_type": "login", "privilege": "user", "host": "B"}
-{"timestamp": 1641024100, "event_type": "login", "privilege": "user", "host": "A"}
-{"timestamp": 1641030000, "event_type": "smb_session", "src": "A", "dst": "B"}

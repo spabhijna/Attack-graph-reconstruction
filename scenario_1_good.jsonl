@@ -1,4 +1,0 @@
-{"timestamp": 1641024000, "event_type": "login", "privilege": "user", "host": "A"}
-{"timestamp": 1641024300, "event_type": "smb_session", "src": "A", "dst": "B"}
-{"timestamp": 1641024600, "event_type": "sudo", "host": "A"}
-{"timestamp": 1641024900, "event_type": "lsass_access", "host": "A"}
